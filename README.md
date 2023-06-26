@@ -34,7 +34,7 @@ The gridlabd simulation is started by the [workflow file](.github/workflows/main
 
 4. The [`save`](.github/workflows/main.yml#L31) step makes the specified files available for download as artifacts from the [**Actions**](../../actions) tab after the simulation is complete.
 
-### Model
+### Models
 
 The simulation model is defined in the file [`main.glm`](main.glm).  There are three parts to this file.
 
