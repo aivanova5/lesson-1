@@ -20,7 +20,7 @@ To view the output, select [**Actions**](../../actions) to show the most recent 
 
 ## Model Purpose
 
-The purpose of this model is to plot IEEE-123 feeder voltage profile.
+The purpose of this model is to plot IEEE-123 standard feeder voltage profile.
 
 ### Workflow
 
